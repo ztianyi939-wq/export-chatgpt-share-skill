@@ -1,0 +1,4 @@
+interface:
+  display_name: "Export ChatGPT Share"
+  short_description: "Export ChatGPT share links to Obsidian Markdown."
+  default_prompt: "Use $export-chatgpt-share to export this ChatGPT share link into an Obsidian-ready Markdown note."
